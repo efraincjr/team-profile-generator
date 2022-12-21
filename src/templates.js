@@ -25,7 +25,7 @@ const managerTemplate = manager => {
     <h2> ${role.toUpperCase()} </h2>
     <div>Name: ${name}</div>
     <div>Email: ${email}</div>
-    <div>Employee Id:${email}</div>
+    <div>Employee Id:${id}</div>
     <div>Office Number: ${officeNumber}</div>
 
     `
@@ -46,4 +46,4 @@ const internTemplate = intern => {
       <div>School: ${school} </div>
       `
 }
-module.exports = { engineerTemplate, managerTemplate };
+module.exports = { engineerTemplate, managerTemplate, internTemplate };
