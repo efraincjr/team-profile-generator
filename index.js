@@ -43,7 +43,7 @@ function createManager() {
     {
       type: "input",
       name: "managerId",
-      message: "what is managers name?",
+      message: "what is managers id?",
     },
     {
       type: "input",
