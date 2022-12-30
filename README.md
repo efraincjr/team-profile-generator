@@ -7,11 +7,16 @@ Generates a team profile for employee, engineer, intern, and manager along with 
 * Node.js
 * Jest for tests
 * Inquirer 
+* Path
 
 ## User story
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
+
+## Usage
+link to screencastify video https://drive.google.com/file/d/1JzrScJoeQoNem-ehpcCmKbnrKH4GED59/view
+
 
 
 ## License
